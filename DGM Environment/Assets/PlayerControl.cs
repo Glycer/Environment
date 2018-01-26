@@ -4,12 +4,16 @@ using UnityEngine;
 
 public class PlayerControl : MonoBehaviour {
 
+    public Transform cam;
     public float speed;
 
+    float delay = .03f;
     CharacterController controller;
 
 	// Use this for initialization
 	void Start () {
+        //ViewControl.Turn += Turn;
+
         controller = GetComponent<CharacterController>();
 	}
 	
@@ -19,4 +23,28 @@ public class PlayerControl : MonoBehaviour {
 
         transform.Rotate(0, Input.GetAxis("Horizontal") * 2, 0);
     }
+
+    /*
+    void Turn(float speed)
+    {
+        transform.Rotate(transform.up, speed);
+    }
+    */
+
+    /*
+    public IEnumerator Look()
+    {
+        while (true)
+        {
+            Quaternion currentRot = transform.localRotation;
+            float tempRot = cam.rotation.y;
+            currentRot.y = tempRot;
+
+            transform.localRotation = currentRot;
+
+            yield return new WaitForSeconds(delay);
+        }
+    }
+    */
+
 }
