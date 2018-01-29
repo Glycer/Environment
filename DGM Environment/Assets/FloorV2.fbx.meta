@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 346831f68eef5ef4389c26007fb016ae
+timeCreated: 1517247583
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Base
+    100002: Body
+    100004: Body 1
+    100006: Breaker_Box_01
+    100008: Cat_01
+    100010: //RootNode
+    100012: Leg_01
+    100014: Leg_02
+    100016: Leg_03
+    100018: Lift
+    100020: Machine_01
+    100022: Main
+    100024: Piano_01
+    100026: Rail
+    100028: Ring_01
+    100030: Ring_02
+    100032: Ring_03
+    100034: Shell_02
+    100036: Top
+    400000: Base
+    400002: Body
+    400004: Body 1
+    400006: Breaker_Box_01
+    400008: Cat_01
+    400010: //RootNode
+    400012: Leg_01
+    400014: Leg_02
+    400016: Leg_03
+    400018: Lift
+    400020: Machine_01
+    400022: Main
+    400024: Piano_01
+    400026: Rail
+    400028: Ring_01
+    400030: Ring_02
+    400032: Ring_03
+    400034: Shell_02
+    400036: Top
+    2300000: Base
+    2300002: Body
+    2300004: Body 1
+    2300006: Breaker_Box_01
+    2300008: Leg_01
+    2300010: Leg_02
+    2300012: Leg_03
+    2300014: Lift
+    2300016: Main
+    2300018: Rail
+    2300020: Ring_01
+    2300022: Ring_02
+    2300024: Ring_03
+    2300026: Shell_02
+    2300028: Top
+    3300000: Base
+    3300002: Body
+    3300004: Body 1
+    3300006: Breaker_Box_01
+    3300008: Leg_01
+    3300010: Leg_02
+    3300012: Leg_03
+    3300014: Lift
+    3300016: Main
+    3300018: Rail
+    3300020: Ring_01
+    3300022: Ring_02
+    3300024: Ring_03
+    3300026: Shell_02
+    3300028: Top
+    4300000: Shell_02
+    4300002: Rail
+    4300004: Body
+    4300006: Top
+    4300008: Lift
+    4300010: Leg_01
+    4300012: Leg_02
+    4300014: Leg_03
+    4300016: Body
+    4300018: Base
+    4300020: Main
+    4300022: Ring_01
+    4300024: Ring_02
+    4300026: Ring_03
+    4300028: Breaker_Box_01
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
