@@ -54,6 +54,33 @@ ModelImporter:
     100092: Piano:Top
     100094: Shell_Collision
     100096: Shell_Model
+    100098: Glass
+    100100: Outside
+    100102: Outside_Ground
+    100104: Outside_Wall
+    100106: Glass_Room_Rail:Mid
+    100108: Glass_Room_Rail:Rail
+    100110: Glass_Room_Rail:Rail_Model
+    100112: Architecture
+    100114: Glass_Room
+    100116: Glass_Room_Rail:Rail_Collision
+    100118: Lamps
+    100120: Glass_Room_Rail:Bars
+    100122: Glass_Room_Rail:Head
+    100124: Glass_Room_Rail:V2
+    100126: Plant_Pot10:Pot
+    100128: Plant_Pot1:Pot
+    100130: Plant_Pot2:Pot
+    100132: Plant_Pot3:Pot
+    100134: Plant_Pot4:Pot
+    100136: Plant_Pot5:Pot
+    100138: Plant_Pot6:Pot
+    100140: Plant_Pot7:Pot
+    100142: Plant_Pot8:Pot
+    100144: Plant_Pot9:Pot
+    100146: Plant_Pot:Pot
+    100148: Plants
+    100150: Plants 1
     400000: Archway:Archway
     400002: Archway:glass_01
     400004: Archway:Glass_02
@@ -103,6 +130,33 @@ ModelImporter:
     400092: Piano:Top
     400094: Shell_Collision
     400096: Shell_Model
+    400098: Glass
+    400100: Outside
+    400102: Outside_Ground
+    400104: Outside_Wall
+    400106: Glass_Room_Rail:Mid
+    400108: Glass_Room_Rail:Rail
+    400110: Glass_Room_Rail:Rail_Model
+    400112: Architecture
+    400114: Glass_Room
+    400116: Glass_Room_Rail:Rail_Collision
+    400118: Lamps
+    400120: Glass_Room_Rail:Bars
+    400122: Glass_Room_Rail:Head
+    400124: Glass_Room_Rail:V2
+    400126: Plant_Pot10:Pot
+    400128: Plant_Pot1:Pot
+    400130: Plant_Pot2:Pot
+    400132: Plant_Pot3:Pot
+    400134: Plant_Pot4:Pot
+    400136: Plant_Pot5:Pot
+    400138: Plant_Pot6:Pot
+    400140: Plant_Pot7:Pot
+    400142: Plant_Pot8:Pot
+    400144: Plant_Pot9:Pot
+    400146: Plant_Pot:Pot
+    400148: Plants
+    400150: Plants 1
     2300000: Archway:glass_01
     2300002: Archway:Glass_02
     2300004: Archway:Pillar
@@ -142,6 +196,25 @@ ModelImporter:
     2300072: Piano:Top
     2300074: Shell_Collision
     2300076: Shell_Model
+    2300078: Glass
+    2300080: Outside_Ground
+    2300082: Outside_Wall
+    2300084: Glass_Room_Rail:Mid
+    2300086: Glass_Room_Rail:Rail
+    2300088: Glass_Room_Rail:Rail_Collision
+    2300090: Glass_Room_Rail:Bars
+    2300092: Glass_Room_Rail:Head
+    2300094: Plant_Pot10:Pot
+    2300096: Plant_Pot1:Pot
+    2300098: Plant_Pot2:Pot
+    2300100: Plant_Pot3:Pot
+    2300102: Plant_Pot4:Pot
+    2300104: Plant_Pot5:Pot
+    2300106: Plant_Pot6:Pot
+    2300108: Plant_Pot7:Pot
+    2300110: Plant_Pot8:Pot
+    2300112: Plant_Pot9:Pot
+    2300114: Plant_Pot:Pot
     3300000: Archway:glass_01
     3300002: Archway:Glass_02
     3300004: Archway:Pillar
@@ -181,6 +254,25 @@ ModelImporter:
     3300072: Piano:Top
     3300074: Shell_Collision
     3300076: Shell_Model
+    3300078: Glass
+    3300080: Outside_Ground
+    3300082: Outside_Wall
+    3300084: Glass_Room_Rail:Mid
+    3300086: Glass_Room_Rail:Rail
+    3300088: Glass_Room_Rail:Rail_Collision
+    3300090: Glass_Room_Rail:Bars
+    3300092: Glass_Room_Rail:Head
+    3300094: Plant_Pot10:Pot
+    3300096: Plant_Pot1:Pot
+    3300098: Plant_Pot2:Pot
+    3300100: Plant_Pot3:Pot
+    3300102: Plant_Pot4:Pot
+    3300104: Plant_Pot5:Pot
+    3300106: Plant_Pot6:Pot
+    3300108: Plant_Pot7:Pot
+    3300110: Plant_Pot8:Pot
+    3300112: Plant_Pot9:Pot
+    3300114: Plant_Pot:Pot
     4300000: Machine:Main
     4300002: Machine:Ring_01
     4300004: Machine:Ring_02
@@ -220,6 +312,25 @@ ModelImporter:
     4300072: Lamp_Secondary3:Screen
     4300074: Lamp_Secondary3:Light
     4300076: Lamp_Secondary3:Light_Frame
+    4300078: Outside_Wall
+    4300080: Outside_Ground
+    4300082: Glass
+    4300084: Glass_Room_Rail:Rail
+    4300086: Glass_Room_Rail:Mid
+    4300088: Glass_Room_Rail:Rail_Collision
+    4300090: Glass_Room_Rail:Head
+    4300092: Glass_Room_Rail:Bars
+    4300094: Plant_Pot:Pot
+    4300096: Plant_Pot1:Pot
+    4300098: Plant_Pot2:Pot
+    4300100: Plant_Pot3:Pot
+    4300102: Plant_Pot4:Pot
+    4300104: Plant_Pot5:Pot
+    4300106: Plant_Pot6:Pot
+    4300108: Plant_Pot7:Pot
+    4300110: Plant_Pot8:Pot
+    4300112: Plant_Pot9:Pot
+    4300114: Plant_Pot10:Pot
     9500000: //RootNode
   materials:
     importMaterials: 1
