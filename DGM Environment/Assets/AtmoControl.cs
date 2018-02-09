@@ -10,7 +10,7 @@ public class AtmoControl : MonoBehaviour {
     public enum Atmosphere { Daylight, Overcast, Night };
 
     Atmosphere[] atmos = new Atmosphere[] { Atmosphere.Daylight, Atmosphere.Overcast, Atmosphere.Night };
-    int atmoIndex = 0;
+    int atmoIndex = 2;
 
     public Atmosphere atmo;
     public List<Material> skies;
