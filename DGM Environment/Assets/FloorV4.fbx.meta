@@ -3,7 +3,7 @@ guid: b8c8e354c2f1bd74eac0c07f92548311
 timeCreated: 1517860720
 licenseType: Pro
 ModelImporter:
-  serializedVersion: 21
+  serializedVersion: 22
   fileIDToRecycleName:
     100000: Architecture
     100002: Archway:Archway
@@ -229,6 +229,8 @@ ModelImporter:
     100442: Tree_05:Leaves
     100444: Tree_05:Tree
     100446: Tree_05:Trunk
+    100448: Floor
+    100450: Inside_Wall
     400000: Architecture
     400002: Archway:Archway
     400004: Archway:glass_01
@@ -453,6 +455,8 @@ ModelImporter:
     400442: Tree_05:Leaves
     400444: Tree_05:Tree
     400446: Tree_05:Trunk
+    400448: Floor
+    400450: Inside_Wall
     2300000: Archway:glass_01
     2300002: Archway:Glass_02
     2300004: Archway:Pillar
@@ -627,6 +631,8 @@ ModelImporter:
     2300342: Tree_05:Leaf_04
     2300344: Tree_05:Leaf_05
     2300346: Tree_05:Trunk
+    2300348: Floor
+    2300350: Inside_Wall
     3300000: Archway:glass_01
     3300002: Archway:Glass_02
     3300004: Archway:Pillar
@@ -801,6 +807,8 @@ ModelImporter:
     3300342: Tree_05:Leaf_04
     3300344: Tree_05:Leaf_05
     3300346: Tree_05:Trunk
+    3300348: Floor
+    3300350: Inside_Wall
     4300000: Shell_Collision
     4300002: Shell_Model
     4300004: Lamp_Main:Boards
@@ -975,11 +983,75 @@ ModelImporter:
     4300342: Plant_01
     4300344: Plant_02
     4300346: Plant_03
+    4300348: Floor
+    4300350: Inside_Wall
     9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cushion
+    second: {fileID: 2100000, guid: c61fc813f010faa4d90828e6ce9c0949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Mat
+    second: {fileID: 2100000, guid: b3fa26d5ca3c4f144a69918047d7d98e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: fe34962d84b22874cb6327f2ce8e1485, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Iron
+    second: {fileID: 2100000, guid: 59100e58e06b1984a8b1922be452e250, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp
+    second: {fileID: 2100000, guid: 1a505732d948cca4cbcd3c027b52cf38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lamp_Body
+    second: {fileID: 2100000, guid: 47c2628e030771545a324aaa2d3e62b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OutdoorDirt
+    second: {fileID: 2100000, guid: 4b9563178eaa796419120f87f739cc6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant
+    second: {fileID: 2100000, guid: 187a1c7734c0788418f155e9b43a65af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pot
+    second: {fileID: 2100000, guid: 5d2ed8c38b1919341bd436a84c412833, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls
+    second: {fileID: 2100000, guid: 323fee97b4083b44fbc188e53bdd4bf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteOut
+    second: {fileID: 2100000, guid: 4d9b84c16da5b49488c38f1dd2858186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: e73a8cb051b19ce4693e203dd0686218, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
@@ -992,6 +1064,7 @@ ModelImporter:
     animationImportWarnings: 
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -1016,6 +1089,8 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
