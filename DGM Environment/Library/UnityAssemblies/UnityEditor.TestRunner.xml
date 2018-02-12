@@ -2,7 +2,7 @@
 <doc>
   <members>
     <assembly>
-      <name>UnityEngine.StyleSheetsModule</name>
+      <name>UnityEditor.TestRunner</name>
     </assembly>
   </members>
 </doc>
