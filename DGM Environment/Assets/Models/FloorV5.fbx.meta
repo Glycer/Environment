@@ -1,0 +1,810 @@
+fileFormatVersion: 2
+guid: b04adca4db168144cae57104d06d0651
+timeCreated: 1519404108
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Architecture
+    100002: Archway:Archway
+    100004: Archway:glass_01
+    100006: Archway:Glass_02
+    100008: Archway:Pillar
+    100010: Brazier:Brazier
+    100012: Brazier:Frame
+    100014: Brazier:Root
+    100016: Brazier:Tether
+    100018: Field_01
+    100020: Field_02
+    100022: Field_03
+    100024: Floor
+    100026: //RootNode
+    100028: Frond:Leaf_Curved
+    100030: Glass
+    100032: Glass_Door:Door
+    100034: Glass_Room
+    100036: Glass_Room_Rail:Bars
+    100038: Glass_Room_Rail:Head
+    100040: Glass_Room_Rail:Mid
+    100042: Glass_Room_Rail:Rail_Collision
+    100044: Glass_Room_Rail:V2
+    100046: Inside_Wall
+    100048: Lamp_Stylized1:Body
+    100050: Lamp_Stylized1:Lamp
+    100052: Lamp_Stylized1:Light
+    100054: Lamp_Stylized1:Light_Frame
+    100056: Lamp_Stylized1:Screen
+    100058: Lamp_Stylized2:Body
+    100060: Lamp_Stylized2:Lamp
+    100062: Lamp_Stylized2:Light
+    100064: Lamp_Stylized2:Light_Frame
+    100066: Lamp_Stylized2:Screen
+    100068: Lamp_Stylized3:Body
+    100070: Lamp_Stylized3:Lamp
+    100072: Lamp_Stylized3:Light
+    100074: Lamp_Stylized3:Light_Frame
+    100076: Lamp_Stylized3:Screen
+    100078: Lamp_Stylized:Body
+    100080: Lamp_Stylized:Lamp
+    100082: Lamp_Stylized:Light
+    100084: Lamp_Stylized:Light_Frame
+    100086: Lamp_Stylized:Screen
+    100088: Lamps
+    100090: Leaf_01
+    100092: Leaf_01 1
+    100094: Leaf_02
+    100096: Leaf_02 1
+    100098: Leaf_03
+    100100: Leaf_03 1
+    100102: Leaf_04
+    100104: Leaf_04 1
+    100106: Leaf_05
+    100108: Leaf_05 1
+    100110: Leaves
+    100112: Leaves 1
+    100114: Leaves 10
+    100116: Leaves 11
+    100118: Leaves 12
+    100120: Leaves 13
+    100122: Leaves 14
+    100124: Leaves 15
+    100126: Leaves 16
+    100128: Leaves 2
+    100130: Leaves 3
+    100132: Leaves 4
+    100134: Leaves 5
+    100136: Leaves 6
+    100138: Leaves 7
+    100140: Leaves 8
+    100142: Leaves 9
+    100144: Machine:Machine
+    100146: Machine:Main
+    100148: Machine:Ring_01
+    100150: Machine:Ring_02
+    100152: Machine:Ring_03
+    100154: Main
+    100156: Main_Lamp_Stylized:Bands
+    100158: Main_Lamp_Stylized:Base
+    100160: Main_Lamp_Stylized:Boards
+    100162: Main_Lamp_Stylized:Core
+    100164: Main_Lamp_Stylized:Hat
+    100166: Main_Lamp_Stylized:Lamp
+    100168: Main_Lamp_Stylized:Wick
+    100170: Outside
+    100172: Outside_Ground
+    100174: Outside_Wall
+    100176: Pending
+    100178: Pillow
+    100180: Pillow1
+    100182: Pillow10
+    100184: Pillow11
+    100186: Pillow12
+    100188: Pillow13
+    100190: Pillow14
+    100192: Pillow15
+    100194: Pillow16
+    100196: Pillow17
+    100198: Pillow18
+    100200: Pillow2
+    100202: Pillow3
+    100204: Pillow4
+    100206: Pillow5
+    100208: Pillow6
+    100210: Pillow7
+    100212: Pillow8
+    100214: Pillow9
+    100216: Pillow_01:Pillow
+    100218: Pillow_02:Pillow
+    100220: Pillows
+    100222: Plant_01
+    100224: Plant_02
+    100226: Plant_03
+    100228: Plant_Pot10:Pot
+    100230: Plant_Pot5:Pot
+    100232: Plant_Pot6:Pot
+    100234: Plant_Pot7:Pot
+    100236: Plant_Pot8:Pot
+    100238: Plant_Pot9:Pot
+    100240: Plants
+    100242: Plants 1
+    100244: Rail
+    100246: Shell_Collision
+    100248: Tree
+    100250: Tree 1
+    100252: Tree1
+    100254: Tree10
+    100256: Tree11
+    100258: Tree12
+    100260: Tree13
+    100262: Tree14
+    100264: Tree15
+    100266: Tree2
+    100268: Tree3
+    100270: Tree4
+    100272: Tree5
+    100274: Tree6
+    100276: Tree7
+    100278: Tree8
+    100280: Tree9
+    100282: Tree_02:Leaves
+    100284: Tree_02:Tree
+    100286: Tree_02:Trunk
+    100288: Tree_05:Leaf_01
+    100290: Tree_05:Leaf_02
+    100292: Tree_05:Leaf_03
+    100294: Tree_05:Leaf_04
+    100296: Tree_05:Leaf_05
+    100298: Tree_05:Leaves
+    100300: Tree_05:Tree
+    100302: Tree_05:Trunk
+    100304: Trees
+    100306: Trunk
+    100308: Trunk 1
+    100310: Trunk 10
+    100312: Trunk 11
+    100314: Trunk 12
+    100316: Trunk 13
+    100318: Trunk 14
+    100320: Trunk 15
+    100322: Trunk 16
+    100324: Trunk 2
+    100326: Trunk 3
+    100328: Trunk 4
+    100330: Trunk 5
+    100332: Trunk 6
+    100334: Trunk 7
+    100336: Trunk 8
+    100338: Trunk 9
+    400000: Architecture
+    400002: Archway:Archway
+    400004: Archway:glass_01
+    400006: Archway:Glass_02
+    400008: Archway:Pillar
+    400010: Brazier:Brazier
+    400012: Brazier:Frame
+    400014: Brazier:Root
+    400016: Brazier:Tether
+    400018: Field_01
+    400020: Field_02
+    400022: Field_03
+    400024: Floor
+    400026: //RootNode
+    400028: Frond:Leaf_Curved
+    400030: Glass
+    400032: Glass_Door:Door
+    400034: Glass_Room
+    400036: Glass_Room_Rail:Bars
+    400038: Glass_Room_Rail:Head
+    400040: Glass_Room_Rail:Mid
+    400042: Glass_Room_Rail:Rail_Collision
+    400044: Glass_Room_Rail:V2
+    400046: Inside_Wall
+    400048: Lamp_Stylized1:Body
+    400050: Lamp_Stylized1:Lamp
+    400052: Lamp_Stylized1:Light
+    400054: Lamp_Stylized1:Light_Frame
+    400056: Lamp_Stylized1:Screen
+    400058: Lamp_Stylized2:Body
+    400060: Lamp_Stylized2:Lamp
+    400062: Lamp_Stylized2:Light
+    400064: Lamp_Stylized2:Light_Frame
+    400066: Lamp_Stylized2:Screen
+    400068: Lamp_Stylized3:Body
+    400070: Lamp_Stylized3:Lamp
+    400072: Lamp_Stylized3:Light
+    400074: Lamp_Stylized3:Light_Frame
+    400076: Lamp_Stylized3:Screen
+    400078: Lamp_Stylized:Body
+    400080: Lamp_Stylized:Lamp
+    400082: Lamp_Stylized:Light
+    400084: Lamp_Stylized:Light_Frame
+    400086: Lamp_Stylized:Screen
+    400088: Lamps
+    400090: Leaf_01
+    400092: Leaf_01 1
+    400094: Leaf_02
+    400096: Leaf_02 1
+    400098: Leaf_03
+    400100: Leaf_03 1
+    400102: Leaf_04
+    400104: Leaf_04 1
+    400106: Leaf_05
+    400108: Leaf_05 1
+    400110: Leaves
+    400112: Leaves 1
+    400114: Leaves 10
+    400116: Leaves 11
+    400118: Leaves 12
+    400120: Leaves 13
+    400122: Leaves 14
+    400124: Leaves 15
+    400126: Leaves 16
+    400128: Leaves 2
+    400130: Leaves 3
+    400132: Leaves 4
+    400134: Leaves 5
+    400136: Leaves 6
+    400138: Leaves 7
+    400140: Leaves 8
+    400142: Leaves 9
+    400144: Machine:Machine
+    400146: Machine:Main
+    400148: Machine:Ring_01
+    400150: Machine:Ring_02
+    400152: Machine:Ring_03
+    400154: Main
+    400156: Main_Lamp_Stylized:Bands
+    400158: Main_Lamp_Stylized:Base
+    400160: Main_Lamp_Stylized:Boards
+    400162: Main_Lamp_Stylized:Core
+    400164: Main_Lamp_Stylized:Hat
+    400166: Main_Lamp_Stylized:Lamp
+    400168: Main_Lamp_Stylized:Wick
+    400170: Outside
+    400172: Outside_Ground
+    400174: Outside_Wall
+    400176: Pending
+    400178: Pillow
+    400180: Pillow1
+    400182: Pillow10
+    400184: Pillow11
+    400186: Pillow12
+    400188: Pillow13
+    400190: Pillow14
+    400192: Pillow15
+    400194: Pillow16
+    400196: Pillow17
+    400198: Pillow18
+    400200: Pillow2
+    400202: Pillow3
+    400204: Pillow4
+    400206: Pillow5
+    400208: Pillow6
+    400210: Pillow7
+    400212: Pillow8
+    400214: Pillow9
+    400216: Pillow_01:Pillow
+    400218: Pillow_02:Pillow
+    400220: Pillows
+    400222: Plant_01
+    400224: Plant_02
+    400226: Plant_03
+    400228: Plant_Pot10:Pot
+    400230: Plant_Pot5:Pot
+    400232: Plant_Pot6:Pot
+    400234: Plant_Pot7:Pot
+    400236: Plant_Pot8:Pot
+    400238: Plant_Pot9:Pot
+    400240: Plants
+    400242: Plants 1
+    400244: Rail
+    400246: Shell_Collision
+    400248: Tree
+    400250: Tree 1
+    400252: Tree1
+    400254: Tree10
+    400256: Tree11
+    400258: Tree12
+    400260: Tree13
+    400262: Tree14
+    400264: Tree15
+    400266: Tree2
+    400268: Tree3
+    400270: Tree4
+    400272: Tree5
+    400274: Tree6
+    400276: Tree7
+    400278: Tree8
+    400280: Tree9
+    400282: Tree_02:Leaves
+    400284: Tree_02:Tree
+    400286: Tree_02:Trunk
+    400288: Tree_05:Leaf_01
+    400290: Tree_05:Leaf_02
+    400292: Tree_05:Leaf_03
+    400294: Tree_05:Leaf_04
+    400296: Tree_05:Leaf_05
+    400298: Tree_05:Leaves
+    400300: Tree_05:Tree
+    400302: Tree_05:Trunk
+    400304: Trees
+    400306: Trunk
+    400308: Trunk 1
+    400310: Trunk 10
+    400312: Trunk 11
+    400314: Trunk 12
+    400316: Trunk 13
+    400318: Trunk 14
+    400320: Trunk 15
+    400322: Trunk 16
+    400324: Trunk 2
+    400326: Trunk 3
+    400328: Trunk 4
+    400330: Trunk 5
+    400332: Trunk 6
+    400334: Trunk 7
+    400336: Trunk 8
+    400338: Trunk 9
+    2300000: Archway:glass_01
+    2300002: Archway:Glass_02
+    2300004: Archway:Pillar
+    2300006: Brazier:Frame
+    2300008: Brazier:Root
+    2300010: Brazier:Tether
+    2300012: Field_01
+    2300014: Field_02
+    2300016: Field_03
+    2300018: Floor
+    2300020: Frond:Leaf_Curved
+    2300022: Glass
+    2300024: Glass_Door:Door
+    2300026: Glass_Room_Rail:Bars
+    2300028: Glass_Room_Rail:Head
+    2300030: Glass_Room_Rail:Mid
+    2300032: Glass_Room_Rail:Rail_Collision
+    2300034: Inside_Wall
+    2300036: Lamp_Stylized1:Body
+    2300038: Lamp_Stylized1:Light
+    2300040: Lamp_Stylized1:Light_Frame
+    2300042: Lamp_Stylized1:Screen
+    2300044: Lamp_Stylized2:Body
+    2300046: Lamp_Stylized2:Light
+    2300048: Lamp_Stylized2:Light_Frame
+    2300050: Lamp_Stylized2:Screen
+    2300052: Lamp_Stylized3:Body
+    2300054: Lamp_Stylized3:Light
+    2300056: Lamp_Stylized3:Light_Frame
+    2300058: Lamp_Stylized3:Screen
+    2300060: Lamp_Stylized:Body
+    2300062: Lamp_Stylized:Light
+    2300064: Lamp_Stylized:Light_Frame
+    2300066: Lamp_Stylized:Screen
+    2300068: Leaf_01
+    2300070: Leaf_01 1
+    2300072: Leaf_02
+    2300074: Leaf_02 1
+    2300076: Leaf_03
+    2300078: Leaf_03 1
+    2300080: Leaf_04
+    2300082: Leaf_04 1
+    2300084: Leaf_05
+    2300086: Leaf_05 1
+    2300088: Leaves 10
+    2300090: Leaves 11
+    2300092: Leaves 12
+    2300094: Leaves 13
+    2300096: Leaves 14
+    2300098: Leaves 15
+    2300100: Leaves 16
+    2300102: Leaves 2
+    2300104: Leaves 3
+    2300106: Leaves 4
+    2300108: Leaves 5
+    2300110: Leaves 6
+    2300112: Leaves 7
+    2300114: Leaves 8
+    2300116: Leaves 9
+    2300118: Machine:Main
+    2300120: Machine:Ring_01
+    2300122: Machine:Ring_02
+    2300124: Machine:Ring_03
+    2300126: Main
+    2300128: Main_Lamp_Stylized:Bands
+    2300130: Main_Lamp_Stylized:Base
+    2300132: Main_Lamp_Stylized:Boards
+    2300134: Main_Lamp_Stylized:Core
+    2300136: Main_Lamp_Stylized:Hat
+    2300138: Main_Lamp_Stylized:Wick
+    2300140: Outside_Ground
+    2300142: Outside_Wall
+    2300144: Pillow
+    2300146: Pillow1
+    2300148: Pillow10
+    2300150: Pillow11
+    2300152: Pillow12
+    2300154: Pillow13
+    2300156: Pillow14
+    2300158: Pillow15
+    2300160: Pillow16
+    2300162: Pillow17
+    2300164: Pillow18
+    2300166: Pillow2
+    2300168: Pillow3
+    2300170: Pillow4
+    2300172: Pillow5
+    2300174: Pillow6
+    2300176: Pillow7
+    2300178: Pillow8
+    2300180: Pillow9
+    2300182: Pillow_01:Pillow
+    2300184: Pillow_02:Pillow
+    2300186: Plant_01
+    2300188: Plant_02
+    2300190: Plant_03
+    2300192: Plant_Pot10:Pot
+    2300194: Plant_Pot5:Pot
+    2300196: Plant_Pot6:Pot
+    2300198: Plant_Pot7:Pot
+    2300200: Plant_Pot8:Pot
+    2300202: Plant_Pot9:Pot
+    2300204: Rail
+    2300206: Shell_Collision
+    2300208: Tree_02:Leaves
+    2300210: Tree_02:Trunk
+    2300212: Tree_05:Leaf_01
+    2300214: Tree_05:Leaf_02
+    2300216: Tree_05:Leaf_03
+    2300218: Tree_05:Leaf_04
+    2300220: Tree_05:Leaf_05
+    2300222: Tree_05:Trunk
+    2300224: Trunk
+    2300226: Trunk 1
+    2300228: Trunk 10
+    2300230: Trunk 11
+    2300232: Trunk 12
+    2300234: Trunk 13
+    2300236: Trunk 14
+    2300238: Trunk 15
+    2300240: Trunk 16
+    2300242: Trunk 2
+    2300244: Trunk 3
+    2300246: Trunk 4
+    2300248: Trunk 5
+    2300250: Trunk 6
+    2300252: Trunk 7
+    2300254: Trunk 8
+    2300256: Trunk 9
+    3300000: Archway:glass_01
+    3300002: Archway:Glass_02
+    3300004: Archway:Pillar
+    3300006: Brazier:Frame
+    3300008: Brazier:Root
+    3300010: Brazier:Tether
+    3300012: Field_01
+    3300014: Field_02
+    3300016: Field_03
+    3300018: Floor
+    3300020: Frond:Leaf_Curved
+    3300022: Glass
+    3300024: Glass_Door:Door
+    3300026: Glass_Room_Rail:Bars
+    3300028: Glass_Room_Rail:Head
+    3300030: Glass_Room_Rail:Mid
+    3300032: Glass_Room_Rail:Rail_Collision
+    3300034: Inside_Wall
+    3300036: Lamp_Stylized1:Body
+    3300038: Lamp_Stylized1:Light
+    3300040: Lamp_Stylized1:Light_Frame
+    3300042: Lamp_Stylized1:Screen
+    3300044: Lamp_Stylized2:Body
+    3300046: Lamp_Stylized2:Light
+    3300048: Lamp_Stylized2:Light_Frame
+    3300050: Lamp_Stylized2:Screen
+    3300052: Lamp_Stylized3:Body
+    3300054: Lamp_Stylized3:Light
+    3300056: Lamp_Stylized3:Light_Frame
+    3300058: Lamp_Stylized3:Screen
+    3300060: Lamp_Stylized:Body
+    3300062: Lamp_Stylized:Light
+    3300064: Lamp_Stylized:Light_Frame
+    3300066: Lamp_Stylized:Screen
+    3300068: Leaf_01
+    3300070: Leaf_01 1
+    3300072: Leaf_02
+    3300074: Leaf_02 1
+    3300076: Leaf_03
+    3300078: Leaf_03 1
+    3300080: Leaf_04
+    3300082: Leaf_04 1
+    3300084: Leaf_05
+    3300086: Leaf_05 1
+    3300088: Leaves 10
+    3300090: Leaves 11
+    3300092: Leaves 12
+    3300094: Leaves 13
+    3300096: Leaves 14
+    3300098: Leaves 15
+    3300100: Leaves 16
+    3300102: Leaves 2
+    3300104: Leaves 3
+    3300106: Leaves 4
+    3300108: Leaves 5
+    3300110: Leaves 6
+    3300112: Leaves 7
+    3300114: Leaves 8
+    3300116: Leaves 9
+    3300118: Machine:Main
+    3300120: Machine:Ring_01
+    3300122: Machine:Ring_02
+    3300124: Machine:Ring_03
+    3300126: Main
+    3300128: Main_Lamp_Stylized:Bands
+    3300130: Main_Lamp_Stylized:Base
+    3300132: Main_Lamp_Stylized:Boards
+    3300134: Main_Lamp_Stylized:Core
+    3300136: Main_Lamp_Stylized:Hat
+    3300138: Main_Lamp_Stylized:Wick
+    3300140: Outside_Ground
+    3300142: Outside_Wall
+    3300144: Pillow
+    3300146: Pillow1
+    3300148: Pillow10
+    3300150: Pillow11
+    3300152: Pillow12
+    3300154: Pillow13
+    3300156: Pillow14
+    3300158: Pillow15
+    3300160: Pillow16
+    3300162: Pillow17
+    3300164: Pillow18
+    3300166: Pillow2
+    3300168: Pillow3
+    3300170: Pillow4
+    3300172: Pillow5
+    3300174: Pillow6
+    3300176: Pillow7
+    3300178: Pillow8
+    3300180: Pillow9
+    3300182: Pillow_01:Pillow
+    3300184: Pillow_02:Pillow
+    3300186: Plant_01
+    3300188: Plant_02
+    3300190: Plant_03
+    3300192: Plant_Pot10:Pot
+    3300194: Plant_Pot5:Pot
+    3300196: Plant_Pot6:Pot
+    3300198: Plant_Pot7:Pot
+    3300200: Plant_Pot8:Pot
+    3300202: Plant_Pot9:Pot
+    3300204: Rail
+    3300206: Shell_Collision
+    3300208: Tree_02:Leaves
+    3300210: Tree_02:Trunk
+    3300212: Tree_05:Leaf_01
+    3300214: Tree_05:Leaf_02
+    3300216: Tree_05:Leaf_03
+    3300218: Tree_05:Leaf_04
+    3300220: Tree_05:Leaf_05
+    3300222: Tree_05:Trunk
+    3300224: Trunk
+    3300226: Trunk 1
+    3300228: Trunk 10
+    3300230: Trunk 11
+    3300232: Trunk 12
+    3300234: Trunk 13
+    3300236: Trunk 14
+    3300238: Trunk 15
+    3300240: Trunk 16
+    3300242: Trunk 2
+    3300244: Trunk 3
+    3300246: Trunk 4
+    3300248: Trunk 5
+    3300250: Trunk 6
+    3300252: Trunk 7
+    3300254: Trunk 8
+    3300256: Trunk 9
+    4300000: Floor
+    4300002: Main
+    4300004: Rail
+    4300006: Plant_Pot5:Pot
+    4300008: Plant_Pot6:Pot
+    4300010: Plant_Pot7:Pot
+    4300012: Plant_Pot8:Pot
+    4300014: Plant_Pot9:Pot
+    4300016: Plant_Pot10:Pot
+    4300018: Machine:Main
+    4300020: Machine:Ring_01
+    4300022: Machine:Ring_02
+    4300024: Machine:Ring_03
+    4300026: Shell_Collision
+    4300028: Glass
+    4300030: Inside_Wall
+    4300032: Outside_Wall
+    4300034: Archway:Pillar
+    4300036: Archway:glass_01
+    4300038: Archway:Glass_02
+    4300040: Glass_Door:Door
+    4300042: Outside_Ground
+    4300044: Leaves
+    4300046: Trunk
+    4300048: Leaves
+    4300050: Trunk
+    4300052: Leaves
+    4300054: Trunk
+    4300056: Leaves
+    4300058: Trunk
+    4300060: Leaves
+    4300062: Trunk
+    4300064: Leaves
+    4300066: Trunk
+    4300068: Leaves
+    4300070: Trunk
+    4300072: Leaves
+    4300074: Trunk
+    4300076: Leaves
+    4300078: Trunk
+    4300080: Leaves
+    4300082: Trunk
+    4300084: Leaves
+    4300086: Trunk
+    4300088: Leaves
+    4300090: Trunk
+    4300092: Leaves
+    4300094: Trunk
+    4300096: Leaves
+    4300098: Trunk
+    4300100: Leaves
+    4300102: Trunk
+    4300104: Tree_02:Leaves
+    4300106: Tree_02:Trunk
+    4300108: Lamp_Stylized:Body
+    4300110: Lamp_Stylized:Screen
+    4300112: Lamp_Stylized:Light
+    4300114: Lamp_Stylized:Light_Frame
+    4300116: Lamp_Stylized1:Body
+    4300118: Lamp_Stylized1:Screen
+    4300120: Lamp_Stylized1:Light
+    4300122: Lamp_Stylized1:Light_Frame
+    4300124: Lamp_Stylized2:Body
+    4300126: Lamp_Stylized2:Screen
+    4300128: Lamp_Stylized2:Light
+    4300130: Lamp_Stylized2:Light_Frame
+    4300132: Lamp_Stylized3:Body
+    4300134: Lamp_Stylized3:Screen
+    4300136: Lamp_Stylized3:Light
+    4300138: Lamp_Stylized3:Light_Frame
+    4300140: Main_Lamp_Stylized:Boards
+    4300142: Main_Lamp_Stylized:Wick
+    4300144: Main_Lamp_Stylized:Hat
+    4300146: Main_Lamp_Stylized:Core
+    4300148: Main_Lamp_Stylized:Base
+    4300150: Main_Lamp_Stylized:Bands
+    4300152: Field_01
+    4300154: Field_03
+    4300156: Field_02
+    4300158: Leaf_05
+    4300160: Leaf_04
+    4300162: Leaf_03
+    4300164: Leaf_02
+    4300166: Leaf_01
+    4300168: Trunk
+    4300170: Leaf_05
+    4300172: Leaf_04
+    4300174: Leaf_03
+    4300176: Leaf_02
+    4300178: Leaf_01
+    4300180: Trunk
+    4300182: Plant_01
+    4300184: Plant_02
+    4300186: Plant_03
+    4300188: Frond:Leaf_Curved
+    4300190: Tree_05:Leaf_05
+    4300192: Tree_05:Leaf_04
+    4300194: Tree_05:Leaf_03
+    4300196: Tree_05:Leaf_02
+    4300198: Tree_05:Leaf_01
+    4300200: Tree_05:Trunk
+    4300202: Pillow
+    4300204: Pillow1
+    4300206: Pillow2
+    4300208: Pillow3
+    4300210: Pillow4
+    4300212: Pillow5
+    4300214: Pillow6
+    4300216: Pillow7
+    4300218: Pillow8
+    4300220: Pillow9
+    4300222: Pillow10
+    4300224: Pillow11
+    4300226: Pillow12
+    4300228: Pillow13
+    4300230: Pillow14
+    4300232: Pillow15
+    4300234: Pillow16
+    4300236: Pillow17
+    4300238: Pillow18
+    4300240: Pillow_01:Pillow
+    4300242: Pillow_02:Pillow
+    4300244: Glass_Room_Rail:Rail_Collision
+    4300246: Glass_Room_Rail:Head
+    4300248: Glass_Room_Rail:Bars
+    4300250: Glass_Room_Rail:Mid
+    4300252: Brazier:Frame
+    4300254: Brazier:Tether
+    4300256: Brazier:Root
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
