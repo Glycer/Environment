@@ -338,6 +338,20 @@ ModelImporter:
     100660: Wall_Lamps
     100662: Walls
     100664: Windows_Grp
+    100666: Column_01
+    100668: Column_02
+    100670: Column_03
+    100672: Column_04
+    100674: Columns
+    100676: T2_Bottle_042
+    100678: T2_Bottle_043
+    100680: T2_Bottle_044
+    100682: T2_Bottle_045
+    100684: T2_Bottle_046
+    100686: T2_Bottle_047
+    100688: T3_Bottle_043
+    100690: T3_Bottle_044
+    100692: T3_Bottle_045
     400000: Archway
     400002: Bands
     400004: Bar
@@ -671,6 +685,20 @@ ModelImporter:
     400660: Wall_Lamps
     400662: Walls
     400664: Windows_Grp
+    400666: Column_01
+    400668: Column_02
+    400670: Column_03
+    400672: Column_04
+    400674: Columns
+    400676: T2_Bottle_042
+    400678: T2_Bottle_043
+    400680: T2_Bottle_044
+    400682: T2_Bottle_045
+    400684: T2_Bottle_046
+    400686: T2_Bottle_047
+    400688: T3_Bottle_043
+    400690: T3_Bottle_044
+    400692: T3_Bottle_045
     2300000: Archway
     2300002: Bands
     2300004: Bar
@@ -960,6 +988,19 @@ ModelImporter:
     2300572: Wall_Lamp_15
     2300574: Wall_Lamp_16
     2300576: Walls
+    2300578: Column_01
+    2300580: Column_02
+    2300582: Column_03
+    2300584: Column_04
+    2300586: T2_Bottle_042
+    2300588: T2_Bottle_043
+    2300590: T2_Bottle_044
+    2300592: T2_Bottle_045
+    2300594: T2_Bottle_046
+    2300596: T2_Bottle_047
+    2300598: T3_Bottle_043
+    2300600: T3_Bottle_044
+    2300602: T3_Bottle_045
     3300000: Archway
     3300002: Bands
     3300004: Bar
@@ -1249,6 +1290,19 @@ ModelImporter:
     3300572: Wall_Lamp_15
     3300574: Wall_Lamp_16
     3300576: Walls
+    3300578: Column_01
+    3300580: Column_02
+    3300582: Column_03
+    3300584: Column_04
+    3300586: T2_Bottle_042
+    3300588: T2_Bottle_043
+    3300590: T2_Bottle_044
+    3300592: T2_Bottle_045
+    3300594: T2_Bottle_046
+    3300596: T2_Bottle_047
+    3300598: T3_Bottle_043
+    3300600: T3_Bottle_044
+    3300602: T3_Bottle_045
     4300000: Floor
     4300002: Walls
     4300004: Wall_Lamp_01
@@ -1538,6 +1592,19 @@ ModelImporter:
     4300572: Indoor_Tree_08
     4300574: Glass_Room_Window
     4300576: Parlor_Window
+    4300578: Column_01
+    4300580: Column_02
+    4300582: Column_03
+    4300584: Column_04
+    4300586: T2_Bottle_042
+    4300588: T2_Bottle_043
+    4300590: T2_Bottle_044
+    4300592: T2_Bottle_045
+    4300594: T2_Bottle_046
+    4300596: T2_Bottle_047
+    4300598: T3_Bottle_043
+    4300600: T3_Bottle_044
+    4300602: T3_Bottle_045
     9500000: //RootNode
   materials:
     importMaterials: 1
