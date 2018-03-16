@@ -11,7 +11,7 @@ public class CursorBehavior : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        anim = GetComponent<Animator>();
+        anim = GetComponentInChildren<Animator>();
 
         StartCoroutine(InteractableCheck());
 	}
@@ -24,7 +24,6 @@ public class CursorBehavior : MonoBehaviour {
 
             if (Physics.Raycast(playerCam.transform.position, playerCam.forward, out hit, range))
             {
-                print(hit.transform.name);
                 anim.SetBool("isActive", (hit.collider.transform.GetComponent<Interactable>() != null ? true : false));
             }
             else

@@ -7,6 +7,8 @@ public class PantherControl : MonoBehaviour {
 
     //public bool isMoving;
     public Transform player;
+    public SkinnedMeshRenderer mat;
+    public Material[] mats;
     public float speed;
 
     Interactable interact;
@@ -20,6 +22,7 @@ public class PantherControl : MonoBehaviour {
 	void Start () {
         interact = GetComponent<Interactable>();
         interact.Activate += Animate;
+        interact.Activate += Skin;
 
         anim = GetComponent<Animator>();
         agent = GetComponentInParent<NavMeshAgent>();
@@ -55,5 +58,10 @@ public class PantherControl : MonoBehaviour {
     public void Target()
     {
         agent.destination = player.position;
+    }
+
+    public void Skin(bool isAlive)
+    {
+        mat.material = isAlive ? mats[1] : mats[0];
     }
 }
