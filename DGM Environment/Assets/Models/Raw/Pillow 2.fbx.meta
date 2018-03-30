@@ -6,10 +6,29 @@ ModelImporter:
   serializedVersion: 21
   fileIDToRecycleName:
     100000: //RootNode
+    100002: COG_Jnt
+    100004: L_Corner_01
+    100006: L_Corner_02
+    100008: Left_Jnt
+    100010: Pillow 1
+    100012: R_Corner_01
+    100014: R_Corner_02
+    100016: Right_Jnt
     400000: //RootNode
+    400002: COG_Jnt
+    400004: L_Corner_01
+    400006: L_Corner_02
+    400008: Left_Jnt
+    400010: Pillow 1
+    400012: R_Corner_01
+    400014: R_Corner_02
+    400016: Right_Jnt
     2300000: //RootNode
+    2300002: Pillow 1
     3300000: //RootNode
+    3300002: Pillow 1
     4300000: T2_Pillow_01
+    4300002: Pillow
   materials:
     importMaterials: 0
     materialName: 0
@@ -60,7 +79,7 @@ ModelImporter:
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
