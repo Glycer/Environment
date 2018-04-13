@@ -20,7 +20,7 @@ public class PantherControl : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        interact = GetComponent<Interactable>();
+        interact = GetComponentInParent<Interactable>();
         interact.Activate += Animate;
         interact.Activate += Skin;
 
