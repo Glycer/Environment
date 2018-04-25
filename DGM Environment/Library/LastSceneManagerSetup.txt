@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LevelVStylized.unity
+- path: Assets/LevelVReal.unity
   isLoaded: 1
   isActive: 1
